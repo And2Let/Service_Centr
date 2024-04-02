@@ -1,0 +1,14 @@
+C:\Users\я\Desktop\C#\ServiceCentr\ServiceCentr\bin\Debug\ServiceCentr.exe.config
+C:\Users\я\Desktop\C#\ServiceCentr\ServiceCentr\bin\Debug\ServiceCentr.exe
+C:\Users\я\Desktop\C#\ServiceCentr\ServiceCentr\bin\Debug\ServiceCentr.pdb
+C:\Users\я\Desktop\C#\ServiceCentr\ServiceCentr\obj\Debug\ServiceCentr.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\C#\ServiceCentr\ServiceCentr\obj\Debug\ServiceCentr.Form1.resources
+C:\Users\я\Desktop\C#\ServiceCentr\ServiceCentr\obj\Debug\ServiceCentr.Properties.Resources.resources
+C:\Users\я\Desktop\C#\ServiceCentr\ServiceCentr\obj\Debug\ServiceCentr.csproj.GenerateResource.cache
+C:\Users\я\Desktop\C#\ServiceCentr\ServiceCentr\obj\Debug\ServiceCentr.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\C#\ServiceCentr\ServiceCentr\obj\Debug\ServiceCentr.exe
+C:\Users\я\Desktop\C#\ServiceCentr\ServiceCentr\obj\Debug\ServiceCentr.pdb
+C:\Users\я\Desktop\C#\ServiceCentr\ServiceCentr\obj\Debug\ServiceCentr.Forms.FormZakaz.resources
+C:\Users\я\Desktop\C#\ServiceCentr\ServiceCentr\obj\Debug\ServiceCentr.Forms.Klient.resources
+C:\Users\я\Desktop\C#\ServiceCentr\ServiceCentr\obj\Debug\ServiceCentr.Forms.Magaz.resources
+C:\Users\я\Desktop\C#\ServiceCentr\ServiceCentr\obj\Debug\ServiceCentr.Forms.Sklad.resources
